@@ -8,5 +8,4 @@ spec:
   interval: 30s
   ref:
     branch: main
-  url: https://github.com/AdminTurnedDevOps/kubernetes-examples
-
+  url: https://github.com/rajumukkisa1/flux-gitops.git
